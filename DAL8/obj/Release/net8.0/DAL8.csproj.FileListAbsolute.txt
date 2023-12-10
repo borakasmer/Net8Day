@@ -1,0 +1,14 @@
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\bin\Release\net8.0\DAL8.deps.json
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\bin\Release\net8.0\DAL8.runtimeconfig.json
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\bin\Release\net8.0\DAL8.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\bin\Release\net8.0\DAL8.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\refint\DAL8.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\DAL8.genruntimeconfig.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\DAL8\obj\Release\net8.0\ref\DAL8.dll
